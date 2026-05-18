@@ -1,4 +1,4 @@
-# Brave Origin Patcher for Windows
+# Brave Origin Policy Manager for Windows
 ![Alt Text](SmallLogo.png)
 
 This is a simple click-to-run executable built with Python that applies Chromium policies based on Brave Origin's "Upgrade" option, which simply applies Chromium policies.
